@@ -1,2 +1,3 @@
-# MyFirst-Repose
+# MyFirst-Repo
 This is my 1st Github Repository
+Author : Kranti Patil
